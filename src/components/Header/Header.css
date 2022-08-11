@@ -1,0 +1,12 @@
+.nav-links {
+    display: inline-block;
+    color: #000; /*will change color of text within the element */
+    /* padding: 10px; */
+    text-transform: uppercase;
+    font-weight: bold;
+}  
+.nav-links:hover {
+    background-color: #000; /*will change background-color of element on hover */
+    color: #fff; /*will change color of text within the element on hover */
+} 
+  
